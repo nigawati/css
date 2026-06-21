@@ -1,0 +1,62 @@
+
+.webmain,footer{
+    background-color: #1f2937;
+}
+.webmain>nav{
+    display: flex;
+    justify-content:space-between;
+    
+}
+.webmain>nav>img{
+    width: 50px;
+    height: inherit;
+    
+}
+#header-link{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: auto;
+
+}
+main>section>img{
+    width: 500px;
+    height: auto;
+}
+.awesome{
+    display: flex;
+    flex-grow: 1;
+    
+}
+li{
+    background-color: yellow;
+    padding: 5px;
+    margin: 10px;
+}
+.border-img{
+    display: flex;
+    justify-content: space-around ;
+}
+.border-img>div>img{
+    width: 100px;
+    height: 100x;
+    margin: 0%;
+    
+}
+.header-info{
+    text-align: center;
+}
+.footer-signup{
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    text-align: center;
+}
+.website-awesome p{
+    font-size: x-large;
+
+}
+button{
+    border-style: solid;
+    border-color:white;
+}
